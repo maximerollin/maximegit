@@ -1,0 +1,62 @@
+name: maximegit
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.0.1+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  animated_text_kit: ^4.2.2
+  auto_route: ^7.2.0
+  cupertino_icons: ^1.0.2
+  device_info_plus: ^9.0.1
+  dio: ^5.1.2
+  equatable: ^2.0.3
+  file_picker: ^5.2.1
+  fl_chart: ^0.62.0
+  flutter_animate: ^4.1.1+1
+  flutter_easyloading: ^3.0.5
+  flutter_facebook_auth: ^5.0.11
+  flutter_form_builder: ^9.0.0
+  flutter_local_notifications: ^14.1.0
+  flutter_map: ^4.0.0
+  flutter_secure_storage: ^8.0.0
+  font_awesome_flutter: ^10.3.0
+  form_builder_validators: ^9.0.0
+  freezed: ^2.3.2
+  get: ^4.6.5
+  google_sign_in: ^6.1.2
+  http: ^0.13.4
+  image_picker: ^0.8.6
+  in_app_review: ^2.0.6
+  json_annotation: ^4.4.0
+  json_serializable: ^6.1.5
+  logging: ^1.2.0
+  material_design_icons_flutter: ^6.0.7096
+  package_info_plus: ^4.0.1
+  path_provider: ^2.0.11
+  percent_indicator: ^4.2.2
+  pinput: ^2.2.12
+  recase: ^4.1.0
+  sign_in_with_apple: ^4.1.0
+  sliding_up_panel: ^2.0.0+1
+  table_calendar: ^3.0.6
+  url_launcher: ^6.1.7
+  webview_flutter: ^4.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  auto_route_generator: ^7.1.1
+  build_runner: ^2.1.8
+  flutter_flavorizr: ^2.2.0
+  flutter_lints: ^2.0.1
+  
+flutter:
+  generate: true
+  uses-material-design: true
